@@ -1,0 +1,14 @@
+{
+  "HomePage": {
+    "title": "Hello world!",
+    "link": "Go to the about page"
+  },
+  "AboutPage": {
+    "title": "About",
+    "about": "Trying out next-intl",
+    "link": "Home"
+  },
+  "Counter": {
+    "count": "Count is {count}"
+  }
+}

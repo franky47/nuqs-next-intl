@@ -1,0 +1,14 @@
+{
+  "HomePage": {
+    "title": "Salut tout le monde!",
+    "link": "Naviger vers la page à propos"
+  },
+  "AboutPage": {
+    "title": "À propos",
+    "about": "Essai de next-intl",
+    "link": "Accueil"
+  },
+  "Counter": {
+    "count": "Le compte est {count}"
+  }
+}
